@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Sutthiphong Phongkumsing, safeJJ</title>
+  <desc id="desc">Dark navy profile banner with teal and violet accents and a network pattern.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1221"/>
+      <stop offset="0.55" stop-color="#14233D"/>
+      <stop offset="1" stop-color="#102C36"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#78E9D2"/>
+      <stop offset="1" stop-color="#9B9BFF"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#FFFFFF" stroke-opacity="0.055" stroke-width="1"/>
+    </pattern>
+    <clipPath id="frame">
+      <rect width="1200" height="320" rx="22"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="320" fill="url(#background)"/>
+    <rect width="1200" height="320" fill="url(#grid)"/>
+    <circle cx="1042" cy="140" r="186" fill="#74E4D1" opacity="0.055"/>
+    <circle cx="1110" cy="244" r="160" fill="#A19AFF" opacity="0.055"/>
+    <path d="M 0 280 H 520" stroke="url(#accent)" stroke-width="4" opacity="0.8"/>
+
+    <g font-family="Arial, Helvetica, sans-serif">
+      <text x="64" y="70" fill="#8DE2D6" font-size="17" font-weight="700" letter-spacing="4">HELLO, I'M</text>
+      <text x="60" y="145" fill="#F6F9FF" font-size="57" font-weight="700">Sutthiphong</text>
+      <text x="63" y="195" fill="#C4CFE0" font-size="30" font-weight="400">Phongkumsing <tspan fill="#8DE2D6">/ @safeJJ</tspan></text>
+      <text x="64" y="246" fill="#A9B9CD" font-size="18" letter-spacing="1">BUILDING PRACTICAL SOFTWARE FOR REAL WORK</text>
+    </g>
+
+    <g fill="none" stroke="url(#accent)" stroke-width="2.5" opacity="0.72">
+      <path d="M 825 117 L 910 67 L 1017 116 L 1095 77"/>
+      <path d="M 825 117 L 876 213 L 989 226 L 1087 171 L 1017 116"/>
+      <path d="M 910 67 L 989 226" opacity="0.38"/>
+      <path d="M 1095 77 L 1087 171 L 1150 225" opacity="0.48"/>
+    </g>
+    <g fill="#9AECE0">
+      <circle cx="825" cy="117" r="7"/><circle cx="910" cy="67" r="7"/>
+      <circle cx="1017" cy="116" r="7"/><circle cx="1095" cy="77" r="7"/>
+      <circle cx="876" cy="213" r="7"/><circle cx="989" cy="226" r="7"/>
+      <circle cx="1087" cy="171" r="7"/><circle cx="1150" cy="225" r="7"/>
+    </g>
+  </g>
+</svg>
