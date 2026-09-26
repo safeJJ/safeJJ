@@ -21,11 +21,23 @@
 
 ### Selected projects
 
-| Project | What it does | Built with |
-| :--- | :--- | :--- |
-| [**WareHouse Pro**](https://github.com/safeJJ/warehouse-pro) | Warehouse management system covering inventory, receiving, QC, production, orders, and shipping. | Next.js · TypeScript · Prisma · PostgreSQL |
-| [**Shop Management**](https://github.com/safeJJ/shopmanagement) | Browser-based demo for products, pricing, stock levels, and low-stock summaries. | HTML · CSS · JavaScript |
-| [**Travel Book**](https://github.com/safeJJ/travel-book) | Mobile-first concept for planning trips together and collecting travel memories. | Product prototype |
+<a href="https://github.com/safeJJ/warehouse-pro">
+  <img src="assets/projects/warehouse-pro.svg" alt="WareHouse Pro — warehouse operations from receiving to shipping" width="100%" />
+</a>
+
+Warehouse management system covering inventory, receiving, QC, production, orders, and shipping. [View repository →](https://github.com/safeJJ/warehouse-pro)
+
+<a href="https://github.com/safeJJ/shopmanagement">
+  <img src="assets/projects/shopmanagement.svg" alt="Shop Management — browser-based products and stock demo" width="100%" />
+</a>
+
+Browser-based demo for products, pricing, stock levels, and low-stock summaries. [View repository →](https://github.com/safeJJ/shopmanagement)
+
+<a href="https://github.com/safeJJ/travel-book">
+  <img src="assets/projects/travel-book.svg" alt="Travel Book — mobile-first collaborative travel concept" width="100%" />
+</a>
+
+Mobile-first concept for planning trips together and collecting travel memories. [View concept →](https://github.com/safeJJ/travel-book)
 
 ### Tools in my public work
 

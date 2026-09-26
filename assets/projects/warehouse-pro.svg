@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" role="img" aria-labelledby="title desc">
+  <title id="title">WareHouse Pro</title>
+  <desc id="desc">Illustrated warehouse operations card showing receiving, inventory, quality control, and shipping.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101B2C"/>
+      <stop offset="1" stop-color="#16434A"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#74E8D3"/>
+      <stop offset="1" stop-color="#8EAEFF"/>
+    </linearGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0H0V30" fill="none" stroke="#FFFFFF" stroke-opacity=".045"/>
+    </pattern>
+    <clipPath id="frame"><rect width="1000" height="260" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)" font-family="Arial, Helvetica, sans-serif">
+    <rect width="1000" height="260" fill="url(#bg)"/>
+    <rect width="1000" height="260" fill="url(#grid)"/>
+    <circle cx="846" cy="112" r="200" fill="#67F1D2" opacity=".055"/>
+    <rect x="0" y="0" width="7" height="260" fill="url(#accent)"/>
+
+    <text x="42" y="54" fill="#8FECDF" font-size="15" font-weight="700" letter-spacing="3">01 / OPERATIONS</text>
+    <text x="39" y="117" fill="#F7FBFF" font-size="48" font-weight="700">WareHouse Pro</text>
+    <text x="42" y="151" fill="#B9CFD8" font-size="19">From receiving to shipping, in one workflow.</text>
+    <g font-size="14" font-weight="700">
+      <rect x="42" y="187" width="89" height="31" rx="15" fill="#214E52" stroke="#68CFC2" stroke-opacity=".45"/>
+      <text x="58" y="208" fill="#A9F1DF">Next.js</text>
+      <rect x="141" y="187" width="111" height="31" rx="15" fill="#214E52" stroke="#68CFC2" stroke-opacity=".45"/>
+      <text x="158" y="208" fill="#A9F1DF">TypeScript</text>
+      <rect x="262" y="187" width="108" height="31" rx="15" fill="#214E52" stroke="#68CFC2" stroke-opacity=".45"/>
+      <text x="279" y="208" fill="#A9F1DF">PostgreSQL</text>
+    </g>
+
+    <rect x="585" y="27" width="373" height="206" rx="15" fill="#0D1C2A" stroke="#77DCCB" stroke-opacity=".32"/>
+    <circle cx="607" cy="50" r="4" fill="#6DDCCB"/>
+    <circle cx="622" cy="50" r="4" fill="#60849A"/>
+    <circle cx="637" cy="50" r="4" fill="#60849A"/>
+    <text x="657" y="55" fill="#A6BBC9" font-size="12" letter-spacing="1">WAREHOUSE DASHBOARD</text>
+    <path d="M585 67H958" stroke="#456375" stroke-opacity=".55"/>
+
+    <g font-size="12" font-weight="700">
+      <rect x="605" y="84" width="103" height="72" rx="9" fill="#1B3D47"/>
+      <rect x="720" y="84" width="103" height="72" rx="9" fill="#1B3D47"/>
+      <rect x="835" y="84" width="103" height="72" rx="9" fill="#1B3D47"/>
+      <text x="619" y="106" fill="#8FE7D7">RECEIVING</text>
+      <text x="734" y="106" fill="#8FE7D7">INVENTORY</text>
+      <text x="849" y="106" fill="#8FE7D7">QC QUEUE</text>
+      <rect x="619" y="119" width="71" height="7" rx="3" fill="#6FD8C7" opacity=".85"/>
+      <rect x="619" y="134" width="49" height="6" rx="3" fill="#517B84"/>
+      <rect x="734" y="119" width="70" height="7" rx="3" fill="#8AA9FB" opacity=".85"/>
+      <rect x="734" y="134" width="57" height="6" rx="3" fill="#517B84"/>
+      <rect x="849" y="119" width="63" height="7" rx="3" fill="#6FD8C7" opacity=".85"/>
+      <rect x="849" y="134" width="41" height="6" rx="3" fill="#517B84"/>
+    </g>
+    <text x="606" y="186" fill="#9EB3C0" font-size="12" letter-spacing="1">FLOW</text>
+    <path d="M659 183H893" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
+    <g fill="#A8F2E4"><circle cx="660" cy="183" r="6"/><circle cx="777" cy="183" r="6"/><circle cx="892" cy="183" r="6"/></g>
+    <g fill="#A9BBC7" font-size="11"><text x="623" y="207">Receive</text><text x="754" y="207">QC</text><text x="868" y="207">Ship</text></g>
+  </g>
+</svg>
