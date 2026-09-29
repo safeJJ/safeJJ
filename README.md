@@ -39,6 +39,12 @@ Browser-based demo for products, pricing, stock levels, and low-stock summaries.
 
 Carbon footprint tracker for organizations: choose emission factors, record activities, and review results by scope and reporting period. [View repository →](https://github.com/safeJJ/carbon-ledger) · [Try the demo →](https://carbon-ledger-sigma.vercel.app/)
 
+### Client work
+
+> **Private client project** · Team contribution
+>
+> ร่วมพัฒนาเว็บแอปกับทีม โดยสงวนชื่อผู้ว่าจ้าง ซอร์สโค้ด และรายละเอียดโครงการไว้เป็นส่วนตัว
+
 ### Tools in my public work
 
 <p>
@@ -51,4 +57,4 @@ Carbon footprint tracker for organizations: choose emission factors, record acti
   <img src="https://img.shields.io/badge/JavaScript-1C2A42?style=flat-square&logo=javascript&logoColor=F7DF6A" alt="JavaScript" />
 </p>
 
-<sub>เปิดให้ดูเฉพาะโปรเจกต์ที่เป็นสาธารณะ · More work is in progress.</sub>
+<sub>ลิงก์เฉพาะโปรเจกต์ที่เป็นสาธารณะ · งานลูกค้าสรุปโดยไม่เปิดเผยรายละเอียด</sub>
