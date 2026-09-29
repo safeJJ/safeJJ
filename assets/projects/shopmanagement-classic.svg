@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" role="img" aria-labelledby="title desc">
+  <title id="title">Shop Management</title>
+  <desc id="desc">Illustrated product and stock dashboard with inventory rows and a low-stock indicator.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1A1B32"/>
+      <stop offset="1" stop-color="#3D3154"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FFC66B"/>
+      <stop offset="1" stop-color="#F19FBF"/>
+    </linearGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0H0V30" fill="none" stroke="#FFFFFF" stroke-opacity=".045"/>
+    </pattern>
+    <clipPath id="frame"><rect width="1000" height="260" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)" font-family="Arial, Helvetica, sans-serif">
+    <rect width="1000" height="260" fill="url(#bg)"/>
+    <rect width="1000" height="260" fill="url(#grid)"/>
+    <circle cx="850" cy="120" r="210" fill="#FFB87B" opacity=".065"/>
+    <rect x="0" y="0" width="7" height="260" fill="url(#accent)"/>
+
+    <text x="42" y="54" fill="#FFD494" font-size="15" font-weight="700" letter-spacing="3">02 / RETAIL DEMO</text>
+    <text x="39" y="117" fill="#FCF9FF" font-size="46" font-weight="700">Shop Management</text>
+    <text x="42" y="151" fill="#D4C6DC" font-size="19">A clear view of products, prices, and stock.</text>
+    <g font-size="14" font-weight="700">
+      <rect x="42" y="187" width="70" height="31" rx="15" fill="#59415A" stroke="#FFC66B" stroke-opacity=".48"/>
+      <text x="62" y="208" fill="#FFE0AD">HTML</text>
+      <rect x="122" y="187" width="65" height="31" rx="15" fill="#59415A" stroke="#FFC66B" stroke-opacity=".48"/>
+      <text x="143" y="208" fill="#FFE0AD">CSS</text>
+      <rect x="197" y="187" width="110" height="31" rx="15" fill="#59415A" stroke="#FFC66B" stroke-opacity=".48"/>
+      <text x="214" y="208" fill="#FFE0AD">JavaScript</text>
+    </g>
+
+    <rect x="585" y="27" width="373" height="206" rx="15" fill="#211E35" stroke="#F8BC82" stroke-opacity=".35"/>
+    <circle cx="607" cy="50" r="4" fill="#FFC66B"/>
+    <circle cx="622" cy="50" r="4" fill="#8A718A"/>
+    <circle cx="637" cy="50" r="4" fill="#8A718A"/>
+    <text x="657" y="55" fill="#D2BFD1" font-size="12" letter-spacing="1">STOCK OVERVIEW</text>
+    <path d="M585 67H958" stroke="#705777" stroke-opacity=".55"/>
+
+    <rect x="605" y="83" width="145" height="55" rx="9" fill="#3B314E"/>
+    <text x="619" y="103" fill="#D8C6D6" font-size="11">PRODUCTS</text>
+    <rect x="619" y="115" width="78" height="9" rx="4" fill="#FFD083"/>
+    <rect x="761" y="83" width="177" height="55" rx="9" fill="#3B314E"/>
+    <text x="775" y="103" fill="#D8C6D6" font-size="11">LOW STOCK</text>
+    <rect x="775" y="115" width="91" height="9" rx="4" fill="#F3A6B8"/>
+
+    <text x="607" y="164" fill="#CDBDD0" font-size="11" letter-spacing="1">PRODUCT</text>
+    <text x="867" y="164" fill="#CDBDD0" font-size="11" letter-spacing="1">STOCK</text>
+    <path d="M605 172H938" stroke="#6C5875" stroke-opacity=".7"/>
+    <rect x="608" y="183" width="136" height="6" rx="3" fill="#A88FAE"/>
+    <rect x="608" y="204" width="112" height="6" rx="3" fill="#A88FAE"/>
+    <rect x="862" y="180" width="62" height="14" rx="7" fill="#526F65"/>
+    <rect x="862" y="201" width="62" height="14" rx="7" fill="#80576C"/>
+  </g>
+</svg>

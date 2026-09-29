@@ -22,19 +22,19 @@
 ### Selected projects
 
 <a href="https://github.com/safeJJ/warehouse-pro">
-  <img src="assets/projects/warehouse-pro.svg" alt="WareHouse Pro — warehouse operations from receiving to shipping" width="100%" />
+  <img src="assets/projects/warehouse-pro-classic.svg" alt="WareHouse Pro — warehouse operations from receiving to shipping" width="100%" />
 </a>
 
 Warehouse management system covering inventory, receiving, QC, production, orders, and shipping. [View repository →](https://github.com/safeJJ/warehouse-pro)
 
 <a href="https://github.com/safeJJ/shopmanagement">
-  <img src="assets/projects/shopmanagement.svg" alt="Shop Management — browser-based products and stock demo" width="100%" />
+  <img src="assets/projects/shopmanagement-classic.svg" alt="Shop Management — browser-based products and stock demo" width="100%" />
 </a>
 
 Browser-based demo for products, pricing, stock levels, and low-stock summaries. [View repository →](https://github.com/safeJJ/shopmanagement)
 
 <a href="https://github.com/safeJJ/carbon-ledger">
-  <img src="assets/projects/carbon-ledger.svg" alt="Carbon Ledger — carbon footprint tracking for organizations" width="100%" />
+  <img src="assets/projects/carbon-ledger-classic.svg" alt="Carbon Ledger — carbon footprint tracking for organizations" width="100%" />
 </a>
 
 Carbon footprint tracker for organizations: choose emission factors, record activities, and review results by scope and reporting period. [View repository →](https://github.com/safeJJ/carbon-ledger) · [Try the demo →](https://carbon-ledger-sigma.vercel.app/)
