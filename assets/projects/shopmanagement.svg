@@ -1,20 +1,58 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="240" viewBox="0 0 1000 240" role="img" aria-labelledby="title desc" shape-rendering="crispEdges">
-<title id="title">SHOP MANAGEMENT</title><desc id="desc">Pixel art project card for SHOP MANAGEMENT.</desc>
-<rect x="0" y="0" width="1000" height="240" fill="#0b1020"/>
-<path d="M0 24H1000 M0 48H1000 M0 72H1000 M0 96H1000 M0 120H1000 M0 144H1000 M0 168H1000 M0 192H1000 M0 216H1000" stroke="#162138" stroke-width="1"/>
-<path d="M24 0V240 M48 0V240 M72 0V240 M96 0V240 M120 0V240 M144 0V240 M168 0V240 M192 0V240 M216 0V240 M240 0V240 M264 0V240 M288 0V240 M312 0V240 M336 0V240 M360 0V240 M384 0V240 M408 0V240 M432 0V240 M456 0V240 M480 0V240 M504 0V240 M528 0V240 M552 0V240 M576 0V240 M600 0V240 M624 0V240 M648 0V240 M672 0V240 M696 0V240 M720 0V240 M744 0V240 M768 0V240 M792 0V240 M816 0V240 M840 0V240 M864 0V240 M888 0V240 M912 0V240 M936 0V240 M960 0V240 M984 0V240" stroke="#162138" stroke-width="1"/>
-<rect x="8" y="8" width="984" height="224" fill="none" stroke="#34465e" stroke-width="3"/>
-<rect x="8" y="8" width="46" height="6" fill="#ffa4c6"/><rect x="8" y="8" width="6" height="40" fill="#ffa4c6"/>
-<rect x="946" y="226" width="46" height="6" fill="#ffa4c6"/><rect x="986" y="192" width="6" height="40" fill="#ffa4c6"/>
-<rect x="44" y="35" width="12" height="12" fill="#ffa4c6"/>
-<text x="69" y="47" fill="#ffa4c6" font-size="16" font-family="Consolas, Courier New, monospace" font-weight="700" letter-spacing="2">02 // RETAIL DEMO</text>
-<text x="42" y="110" fill="#f5f5ed" font-size="49" font-family="Consolas, Courier New, monospace" font-weight="700" letter-spacing="1">SHOP MANAGEMENT</text>
-<text x="44" y="147" fill="#a9bdd1" font-size="18" font-family="Consolas, Courier New, monospace" font-weight="400" letter-spacing="0">Products, prices, and stock at a glance.</text>
-<rect x="44" y="180" width="70" height="32" fill="#111b30" stroke="#ffa4c6" stroke-width="2"/><text x="57" y="202" fill="#ffa4c6" font-size="14" font-family="Consolas, Courier New, monospace" font-weight="700" letter-spacing="0">HTML</text><rect x="124" y="180" width="59" height="32" fill="#111b30" stroke="#ffa4c6" stroke-width="2"/><text x="137" y="202" fill="#ffa4c6" font-size="14" font-family="Consolas, Courier New, monospace" font-weight="700" letter-spacing="0">CSS</text><rect x="193" y="180" width="136" height="32" fill="#111b30" stroke="#ffa4c6" stroke-width="2"/><text x="206" y="202" fill="#ffa4c6" font-size="14" font-family="Consolas, Courier New, monospace" font-weight="700" letter-spacing="0">JAVASCRIPT</text>
-<rect x="610" y="33" width="345" height="169" fill="#111b30" stroke="#34465e" stroke-width="3"/>
-<rect x="610" y="33" width="345" height="27" fill="#19243b"/>
-<rect x="624" y="44" width="7" height="7" fill="#ffa4c6"/><rect x="637" y="44" width="7" height="7" fill="#57708a"/><rect x="650" y="44" width="7" height="7" fill="#57708a"/>
-<text x="680" y="51" fill="#a9bdd1" font-size="12" font-family="Consolas, Courier New, monospace" font-weight="700" letter-spacing="1">PROJECT_VIEW.EXE</text>
-<rect x="640" y="81" width="280" height="21" fill="#fa9ebd"/><rect x="640" y="81" width="20" height="21" fill="#ffcf89"/><rect x="680" y="81" width="20" height="21" fill="#ffcf89"/><rect x="720" y="81" width="20" height="21" fill="#ffcf89"/><rect x="760" y="81" width="20" height="21" fill="#ffcf89"/><rect x="800" y="81" width="20" height="21" fill="#ffcf89"/><rect x="840" y="81" width="20" height="21" fill="#ffcf89"/><rect x="880" y="81" width="20" height="21" fill="#ffcf89"/><rect x="651" y="104" width="257" height="59" fill="#23314b" stroke="#806683" stroke-width="2"/><rect x="663" y="116" width="67" height="31" fill="#674c7d"/><rect x="743" y="116" width="67" height="31" fill="#674c7d"/><rect x="823" y="116" width="67" height="31" fill="#674c7d"/><rect x="673" y="121" width="15" height="18" fill="#ffcf89"/><rect x="693" y="125" width="24" height="14" fill="#ff8aa9"/><rect x="753" y="122" width="18" height="17" fill="#8fccef"/><rect x="778" y="119" width="20" height="20" fill="#ffcf89"/><rect x="833" y="124" width="20" height="15" fill="#ff8aa9"/><rect x="858" y="119" width="18" height="20" fill="#8fccef"/><text x="646" y="187" fill="#f2b8d1" font-size="11" font-family="Consolas, Courier New, monospace" font-weight="700" letter-spacing="0">PRODUCTS  /  PRICES  /  STOCK</text>
-<rect x="610" y="207" width="18" height="4" fill="#ffa4c6"/><rect x="632" y="207" width="10" height="4" fill="#ffa4c6"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" role="img" aria-labelledby="title desc">
+  <title id="title">Shop Management</title>
+  <desc id="desc">Illustrated product and stock dashboard with inventory rows and a low-stock indicator.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1A1B32"/>
+      <stop offset="1" stop-color="#3D3154"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FFC66B"/>
+      <stop offset="1" stop-color="#F19FBF"/>
+    </linearGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0H0V30" fill="none" stroke="#FFFFFF" stroke-opacity=".045"/>
+    </pattern>
+    <clipPath id="frame"><rect width="1000" height="260" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)" font-family="Arial, Helvetica, sans-serif">
+    <rect width="1000" height="260" fill="url(#bg)"/>
+    <rect width="1000" height="260" fill="url(#grid)"/>
+    <circle cx="850" cy="120" r="210" fill="#FFB87B" opacity=".065"/>
+    <rect x="0" y="0" width="7" height="260" fill="url(#accent)"/>
+
+    <text x="42" y="54" fill="#FFD494" font-size="15" font-weight="700" letter-spacing="3">02 / RETAIL DEMO</text>
+    <text x="39" y="117" fill="#FCF9FF" font-size="46" font-weight="700">Shop Management</text>
+    <text x="42" y="151" fill="#D4C6DC" font-size="19">A clear view of products, prices, and stock.</text>
+    <g font-size="14" font-weight="700">
+      <rect x="42" y="187" width="70" height="31" rx="15" fill="#59415A" stroke="#FFC66B" stroke-opacity=".48"/>
+      <text x="62" y="208" fill="#FFE0AD">HTML</text>
+      <rect x="122" y="187" width="65" height="31" rx="15" fill="#59415A" stroke="#FFC66B" stroke-opacity=".48"/>
+      <text x="143" y="208" fill="#FFE0AD">CSS</text>
+      <rect x="197" y="187" width="110" height="31" rx="15" fill="#59415A" stroke="#FFC66B" stroke-opacity=".48"/>
+      <text x="214" y="208" fill="#FFE0AD">JavaScript</text>
+    </g>
+
+    <rect x="585" y="27" width="373" height="206" rx="15" fill="#211E35" stroke="#F8BC82" stroke-opacity=".35"/>
+    <circle cx="607" cy="50" r="4" fill="#FFC66B"/>
+    <circle cx="622" cy="50" r="4" fill="#8A718A"/>
+    <circle cx="637" cy="50" r="4" fill="#8A718A"/>
+    <text x="657" y="55" fill="#D2BFD1" font-size="12" letter-spacing="1">STOCK OVERVIEW</text>
+    <path d="M585 67H958" stroke="#705777" stroke-opacity=".55"/>
+
+    <rect x="605" y="83" width="145" height="55" rx="9" fill="#3B314E"/>
+    <text x="619" y="103" fill="#D8C6D6" font-size="11">PRODUCTS</text>
+    <rect x="619" y="115" width="78" height="9" rx="4" fill="#FFD083"/>
+    <rect x="761" y="83" width="177" height="55" rx="9" fill="#3B314E"/>
+    <text x="775" y="103" fill="#D8C6D6" font-size="11">LOW STOCK</text>
+    <rect x="775" y="115" width="91" height="9" rx="4" fill="#F3A6B8"/>
+
+    <text x="607" y="164" fill="#CDBDD0" font-size="11" letter-spacing="1">PRODUCT</text>
+    <text x="867" y="164" fill="#CDBDD0" font-size="11" letter-spacing="1">STOCK</text>
+    <path d="M605 172H938" stroke="#6C5875" stroke-opacity=".7"/>
+    <rect x="608" y="183" width="136" height="6" rx="3" fill="#A88FAE"/>
+    <rect x="608" y="204" width="112" height="6" rx="3" fill="#A88FAE"/>
+    <rect x="862" y="180" width="62" height="14" rx="7" fill="#526F65"/>
+    <rect x="862" y="201" width="62" height="14" rx="7" fill="#80576C"/>
+  </g>
 </svg>

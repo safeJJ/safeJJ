@@ -1,20 +1,62 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="240" viewBox="0 0 1000 240" role="img" aria-labelledby="title desc" shape-rendering="crispEdges">
-<title id="title">WAREHOUSE PRO</title><desc id="desc">Pixel art project card for WAREHOUSE PRO.</desc>
-<rect x="0" y="0" width="1000" height="240" fill="#0b1020"/>
-<path d="M0 24H1000 M0 48H1000 M0 72H1000 M0 96H1000 M0 120H1000 M0 144H1000 M0 168H1000 M0 192H1000 M0 216H1000" stroke="#162138" stroke-width="1"/>
-<path d="M24 0V240 M48 0V240 M72 0V240 M96 0V240 M120 0V240 M144 0V240 M168 0V240 M192 0V240 M216 0V240 M240 0V240 M264 0V240 M288 0V240 M312 0V240 M336 0V240 M360 0V240 M384 0V240 M408 0V240 M432 0V240 M456 0V240 M480 0V240 M504 0V240 M528 0V240 M552 0V240 M576 0V240 M600 0V240 M624 0V240 M648 0V240 M672 0V240 M696 0V240 M720 0V240 M744 0V240 M768 0V240 M792 0V240 M816 0V240 M840 0V240 M864 0V240 M888 0V240 M912 0V240 M936 0V240 M960 0V240 M984 0V240" stroke="#162138" stroke-width="1"/>
-<rect x="8" y="8" width="984" height="224" fill="none" stroke="#34465e" stroke-width="3"/>
-<rect x="8" y="8" width="46" height="6" fill="#6fe5dc"/><rect x="8" y="8" width="6" height="40" fill="#6fe5dc"/>
-<rect x="946" y="226" width="46" height="6" fill="#6fe5dc"/><rect x="986" y="192" width="6" height="40" fill="#6fe5dc"/>
-<rect x="44" y="35" width="12" height="12" fill="#6fe5dc"/>
-<text x="69" y="47" fill="#6fe5dc" font-size="16" font-family="Consolas, Courier New, monospace" font-weight="700" letter-spacing="2">01 // OPERATIONS</text>
-<text x="42" y="110" fill="#f5f5ed" font-size="49" font-family="Consolas, Courier New, monospace" font-weight="700" letter-spacing="1">WAREHOUSE PRO</text>
-<text x="44" y="147" fill="#a9bdd1" font-size="18" font-family="Consolas, Courier New, monospace" font-weight="400" letter-spacing="0">Receiving to shipping, one workflow.</text>
-<rect x="44" y="180" width="103" height="32" fill="#111b30" stroke="#6fe5dc" stroke-width="2"/><text x="57" y="202" fill="#6fe5dc" font-size="14" font-family="Consolas, Courier New, monospace" font-weight="700" letter-spacing="0">NEXT.JS</text><rect x="157" y="180" width="136" height="32" fill="#111b30" stroke="#6fe5dc" stroke-width="2"/><text x="170" y="202" fill="#6fe5dc" font-size="14" font-family="Consolas, Courier New, monospace" font-weight="700" letter-spacing="0">TYPESCRIPT</text><rect x="303" y="180" width="114" height="32" fill="#111b30" stroke="#6fe5dc" stroke-width="2"/><text x="316" y="202" fill="#6fe5dc" font-size="14" font-family="Consolas, Courier New, monospace" font-weight="700" letter-spacing="0">POSTGRES</text>
-<rect x="610" y="33" width="345" height="169" fill="#111b30" stroke="#34465e" stroke-width="3"/>
-<rect x="610" y="33" width="345" height="27" fill="#19243b"/>
-<rect x="624" y="44" width="7" height="7" fill="#6fe5dc"/><rect x="637" y="44" width="7" height="7" fill="#57708a"/><rect x="650" y="44" width="7" height="7" fill="#57708a"/>
-<text x="680" y="51" fill="#a9bdd1" font-size="12" font-family="Consolas, Courier New, monospace" font-weight="700" letter-spacing="1">PROJECT_VIEW.EXE</text>
-<rect x="641" y="83" width="76" height="93" fill="#1b3047" stroke="#4e7992" stroke-width="2"/><rect x="739" y="83" width="76" height="93" fill="#1b3047" stroke="#4e7992" stroke-width="2"/><rect x="837" y="83" width="76" height="93" fill="#1b3047" stroke="#4e7992" stroke-width="2"/><text x="651" y="100" fill="#7ae6df" font-size="11" font-family="Consolas, Courier New, monospace" font-weight="700" letter-spacing="0">RECEIVE</text><text x="751" y="100" fill="#7ae6df" font-size="11" font-family="Consolas, Courier New, monospace" font-weight="700" letter-spacing="0">STORE</text><text x="853" y="100" fill="#7ae6df" font-size="11" font-family="Consolas, Courier New, monospace" font-weight="700" letter-spacing="0">SHIP</text><rect x="653" y="119" width="18" height="18" fill="#3eab9f"/><rect x="673" y="119" width="18" height="18" fill="#3eab9f"/><rect x="663" y="139" width="18" height="18" fill="#7ae6df"/><rect x="752" y="119" width="20" height="18" fill="#7ae6df"/><rect x="775" y="119" width="20" height="18" fill="#3eab9f"/><rect x="752" y="141" width="43" height="15" fill="#2d7979"/><rect x="857" y="118" width="40" height="25" fill="#3eab9f"/><rect x="872" y="108" width="20" height="10" fill="#7ae6df"/><rect x="848" y="150" width="58" height="5" fill="#7ae6df"/><text x="642" y="190" fill="#94b8c9" font-size="10" font-family="Consolas, Courier New, monospace" font-weight="700" letter-spacing="0">RECEIVING  &gt;  QC  &gt;  DISPATCH</text>
-<rect x="610" y="207" width="18" height="4" fill="#6fe5dc"/><rect x="632" y="207" width="10" height="4" fill="#6fe5dc"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" role="img" aria-labelledby="title desc">
+  <title id="title">WareHouse Pro</title>
+  <desc id="desc">Illustrated warehouse operations card showing receiving, inventory, quality control, and shipping.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101B2C"/>
+      <stop offset="1" stop-color="#16434A"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#74E8D3"/>
+      <stop offset="1" stop-color="#8EAEFF"/>
+    </linearGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0H0V30" fill="none" stroke="#FFFFFF" stroke-opacity=".045"/>
+    </pattern>
+    <clipPath id="frame"><rect width="1000" height="260" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)" font-family="Arial, Helvetica, sans-serif">
+    <rect width="1000" height="260" fill="url(#bg)"/>
+    <rect width="1000" height="260" fill="url(#grid)"/>
+    <circle cx="846" cy="112" r="200" fill="#67F1D2" opacity=".055"/>
+    <rect x="0" y="0" width="7" height="260" fill="url(#accent)"/>
+
+    <text x="42" y="54" fill="#8FECDF" font-size="15" font-weight="700" letter-spacing="3">01 / OPERATIONS</text>
+    <text x="39" y="117" fill="#F7FBFF" font-size="48" font-weight="700">WareHouse Pro</text>
+    <text x="42" y="151" fill="#B9CFD8" font-size="19">From receiving to shipping, in one workflow.</text>
+    <g font-size="14" font-weight="700">
+      <rect x="42" y="187" width="89" height="31" rx="15" fill="#214E52" stroke="#68CFC2" stroke-opacity=".45"/>
+      <text x="58" y="208" fill="#A9F1DF">Next.js</text>
+      <rect x="141" y="187" width="111" height="31" rx="15" fill="#214E52" stroke="#68CFC2" stroke-opacity=".45"/>
+      <text x="158" y="208" fill="#A9F1DF">TypeScript</text>
+      <rect x="262" y="187" width="108" height="31" rx="15" fill="#214E52" stroke="#68CFC2" stroke-opacity=".45"/>
+      <text x="279" y="208" fill="#A9F1DF">PostgreSQL</text>
+    </g>
+
+    <rect x="585" y="27" width="373" height="206" rx="15" fill="#0D1C2A" stroke="#77DCCB" stroke-opacity=".32"/>
+    <circle cx="607" cy="50" r="4" fill="#6DDCCB"/>
+    <circle cx="622" cy="50" r="4" fill="#60849A"/>
+    <circle cx="637" cy="50" r="4" fill="#60849A"/>
+    <text x="657" y="55" fill="#A6BBC9" font-size="12" letter-spacing="1">WAREHOUSE DASHBOARD</text>
+    <path d="M585 67H958" stroke="#456375" stroke-opacity=".55"/>
+
+    <g font-size="12" font-weight="700">
+      <rect x="605" y="84" width="103" height="72" rx="9" fill="#1B3D47"/>
+      <rect x="720" y="84" width="103" height="72" rx="9" fill="#1B3D47"/>
+      <rect x="835" y="84" width="103" height="72" rx="9" fill="#1B3D47"/>
+      <text x="619" y="106" fill="#8FE7D7">RECEIVING</text>
+      <text x="734" y="106" fill="#8FE7D7">INVENTORY</text>
+      <text x="849" y="106" fill="#8FE7D7">QC QUEUE</text>
+      <rect x="619" y="119" width="71" height="7" rx="3" fill="#6FD8C7" opacity=".85"/>
+      <rect x="619" y="134" width="49" height="6" rx="3" fill="#517B84"/>
+      <rect x="734" y="119" width="70" height="7" rx="3" fill="#8AA9FB" opacity=".85"/>
+      <rect x="734" y="134" width="57" height="6" rx="3" fill="#517B84"/>
+      <rect x="849" y="119" width="63" height="7" rx="3" fill="#6FD8C7" opacity=".85"/>
+      <rect x="849" y="134" width="41" height="6" rx="3" fill="#517B84"/>
+    </g>
+    <text x="606" y="186" fill="#9EB3C0" font-size="12" letter-spacing="1">FLOW</text>
+    <path d="M659 183H893" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
+    <g fill="#A8F2E4"><circle cx="660" cy="183" r="6"/><circle cx="777" cy="183" r="6"/><circle cx="892" cy="183" r="6"/></g>
+    <g fill="#A9BBC7" font-size="11"><text x="623" y="207">Receive</text><text x="754" y="207">QC</text><text x="868" y="207">Ship</text></g>
+  </g>
 </svg>

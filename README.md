@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="assets/hero.gif" alt="Pixel-style SAFEJJ profile banner with an animated project quest log" width="100%" />
+  <img src="assets/hero.gif" alt="Sutthiphong Phongkumsing — building practical software" width="100%" />
 
   <br />
 
@@ -13,13 +13,13 @@
 
 ---
 
-### 01 / What I work on
+### What I work on
 
 - **Operations & inventory** — turning warehouse and stock workflows into usable software.
 - **Full-stack web apps** — building interfaces, APIs, and data models together.
 - **Small, useful experiments** — exploring ideas through focused prototypes.
 
-### 02 / Selected projects
+### Selected projects
 
 <a href="https://github.com/safeJJ/warehouse-pro">
   <img src="assets/projects/warehouse-pro.svg" alt="WareHouse Pro — warehouse operations from receiving to shipping" width="100%" />
@@ -39,8 +39,16 @@ Browser-based demo for products, pricing, stock levels, and low-stock summaries.
 
 Carbon footprint tracker for organizations: choose emission factors, record activities, and review results by scope and reporting period. [View repository →](https://github.com/safeJJ/carbon-ledger) · [Try the demo →](https://carbon-ledger-sigma.vercel.app/)
 
-### 03 / Toolkit
+### Tools in my public work
 
-<img src="assets/toolkit.svg" alt="Toolkit: TypeScript, Next.js, React, Prisma, PostgreSQL, Supabase, and JavaScript" width="100%" />
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-1C2A42?style=flat-square&logo=typescript&logoColor=69B7FF" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Next.js-1C2A42?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-1C2A42?style=flat-square&logo=react&logoColor=75D5E8" alt="React" />
+  <img src="https://img.shields.io/badge/Prisma-1C2A42?style=flat-square&logo=prisma&logoColor=FFFFFF" alt="Prisma" />
+  <img src="https://img.shields.io/badge/PostgreSQL-1C2A42?style=flat-square&logo=postgresql&logoColor=9CCBFF" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Supabase-1C2A42?style=flat-square&logo=supabase&logoColor=75E5B1" alt="Supabase" />
+  <img src="https://img.shields.io/badge/JavaScript-1C2A42?style=flat-square&logo=javascript&logoColor=F7DF6A" alt="JavaScript" />
+</p>
 
 <sub>เปิดให้ดูเฉพาะโปรเจกต์ที่เป็นสาธารณะ · More work is in progress.</sub>
