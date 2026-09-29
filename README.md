@@ -33,11 +33,11 @@ Warehouse management system covering inventory, receiving, QC, production, order
 
 Browser-based demo for products, pricing, stock levels, and low-stock summaries. [View repository →](https://github.com/safeJJ/shopmanagement)
 
-<a href="https://github.com/safeJJ/travel-book">
-  <img src="assets/projects/travel-book.svg" alt="Travel Book — mobile-first collaborative travel concept" width="100%" />
+<a href="https://github.com/safeJJ/carbon-ledger">
+  <img src="assets/projects/carbon-ledger.svg" alt="Carbon Ledger — carbon footprint tracking for organizations" width="100%" />
 </a>
 
-Mobile-first concept for planning trips together and collecting travel memories. [View concept →](https://github.com/safeJJ/travel-book)
+Carbon footprint tracker for organizations: choose emission factors, record activities, and review results by scope and reporting period. [View repository →](https://github.com/safeJJ/carbon-ledger) · [Try the demo →](https://carbon-ledger-sigma.vercel.app/)
 
 ### Tools in my public work
 
