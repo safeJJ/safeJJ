@@ -41,9 +41,12 @@ Carbon footprint tracker for organizations: choose emission factors, record acti
 
 ### Client work
 
-> **Private client project** · Team contribution
+> **Private client work** · Team contributions
 >
-> ร่วมพัฒนาเว็บแอปกับทีม โดยสงวนชื่อผู้ว่าจ้าง ซอร์สโค้ด และรายละเอียดโครงการไว้เป็นส่วนตัว
+> - **Business web application** — ร่วมพัฒนาเว็บแอปให้ลูกค้ากับทีม
+> - **Internal operations web application** — ร่วมพัฒนาระบบเว็บสำหรับงานภายในกับทีม
+>
+> สงวนชื่อผู้ว่าจ้าง ซอร์สโค้ด และรายละเอียดโครงการไว้เป็นส่วนตัว
 
 ### Tools in my public work
 
